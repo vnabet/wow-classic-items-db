@@ -1,3 +1,15 @@
-/data
-/db
-/target
+/data/
+/db/
+
+# Rust
+/target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
